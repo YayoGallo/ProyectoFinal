@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 89c950716263fa745ae7abe74995d7b3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PisoPiedra_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -56, y: -58}
+        - {x: -58, y: 55}
+        - {x: 52, y: 57}
+        - {x: 53, y: -57}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683199f14d7752f45a1c2a1d30058cdf
+      internalID: 481510152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoPiedra_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 479
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -56, y: -57}
+        - {x: -58, y: 56}
+        - {x: 54, y: 56}
+        - {x: 54, y: -56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fa3a7ef9e9f1344b4c5bb8e1132fd5
+      internalID: -560382051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoPiedra_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 479
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaa1aeeb3c95b944adbf602bc49f69f
+      internalID: 2064643999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoPiedra_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 479
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070345c52a0039347ad789aa01a289a3
+      internalID: 849897081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoPiedra_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 479
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c53bf20249c6c46aea88d51ddded16
+      internalID: -1157679663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoPiedra_5
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 479
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3606775cb21af747bdbff034b424fdc
+      internalID: 1849635503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoPiedra_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -56, y: -54}
+        - {x: -56, y: 65}
+        - {x: 55, y: 65}
+        - {x: 55, y: -54}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950c29561196d1c4681b6f906e8b9268
+      internalID: 78548092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoPiedra_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 319
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -53, y: -54}
+        - {x: -53, y: 68}
+        - {x: 63, y: 68}
+        - {x: 63, y: -54}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed68e3fec8ef48845bc5f38828fdb625
+      internalID: -1140238455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoPiedra_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 319
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275fefad8807a074eb5c4777bc8c7e69
+      internalID: 2128750431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoPiedra_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 319
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c4cd70651166744b1b7ebf371c8f45
+      internalID: 977597830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoPiedra_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 319
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eec2a2c1a3a9284384a6bc4fcf8e27e
+      internalID: -1045237307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoPiedra_11
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 319
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b90a62678c0eb74cb6a181f7a0892b5
+      internalID: 2051619126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoPiedra_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24b2ca3ac15e534cb82661a43d15eba
+      internalID: 222254628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoPiedra_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 159
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f57d8b4e0bcc540bb59d05c82ead82
+      internalID: 2096808314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoPiedra_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 159
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b532ab97aaed19844af264be03bef382
+      internalID: 437271201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoPiedra_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 159
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0f1ef6e92946a4c9a825d7ef7a27f1
+      internalID: -1379408884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoPiedra_16
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 159
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f800bd753f5dcf41982e220897e0d97
+      internalID: -2055762861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoPiedra_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 159
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aa511ad718f8b4b9041fcc420a0c60
+      internalID: 1697230609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PisoPiedra_0: 481510152
+      PisoPiedra_1: -560382051
+      PisoPiedra_10: -1045237307
+      PisoPiedra_11: 2051619126
+      PisoPiedra_12: 222254628
+      PisoPiedra_13: 2096808314
+      PisoPiedra_14: 437271201
+      PisoPiedra_15: -1379408884
+      PisoPiedra_16: -2055762861
+      PisoPiedra_17: 1697230609
+      PisoPiedra_2: 2064643999
+      PisoPiedra_3: 849897081
+      PisoPiedra_4: -1157679663
+      PisoPiedra_5: 1849635503
+      PisoPiedra_6: 78548092
+      PisoPiedra_7: -1140238455
+      PisoPiedra_8: 2128750431
+      PisoPiedra_9: 977597830
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
